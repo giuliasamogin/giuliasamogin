@@ -1,80 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" width="320" height="240" shape-rendering="crispEdges" role="img" aria-label="Coração em pixels animado">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 38" width="304" height="304" shape-rendering="crispEdges" role="img" aria-label="Coração em pixels animado">
 <title>Coração em pixels animado</title>
-<style>.h{transform-origin:160px 120px;animation:b 3.6s ease-in-out infinite}rect{width:16px;height:16px;animation:s 3.6s ease-in-out infinite}.e1{animation-delay:0s}.e2{animation-delay:.12s}.e3{animation-delay:.24s}.e4{animation-delay:.36s}.c0{fill:#C4B5FD}.c1{fill:#A78BFA}.c2{fill:#8B5CF6}.c3{fill:#6D28D9}.d0{--dx:16px;--dy:0px}.d1{--dx:12px;--dy:12px}.d2{--dx:0px;--dy:16px}.d3{--dx:-12px;--dy:12px}.d4{--dx:-16px;--dy:0px}.d5{--dx:-12px;--dy:-12px}.d6{--dx:0px;--dy:-16px}.d7{--dx:12px;--dy:-12px}@keyframes s{0%,100%{transform:translate(0,0);opacity:1}35%{transform:translate(var(--dx),var(--dy));opacity:.75}65%{transform:translate(0,0);opacity:1}}@keyframes b{0%,100%{transform:scale(1)}35%{transform:scale(1.05)}}@media (prefers-reduced-motion:reduce){.h,rect{animation:none}}</style>
+<style>.h{transform-origin:18.5px 15.9px;animation:b 3.6s ease-in-out infinite}rect{width:1px;height:1px;animation:s 3.6s ease-in-out infinite}rect:nth-child(3n+1){--m:.6}rect:nth-child(3n+2){--m:1}rect:nth-child(3n){--m:1.5}rect:nth-child(4n+2){animation-delay:.15s}rect:nth-child(4n+3){animation-delay:.3s}rect:nth-child(4n){animation-delay:.45s}.d0{--dx:2px;--dy:0px}.d1{--dx:1.5px;--dy:1.5px}.d2{--dx:0px;--dy:2px}.d3{--dx:-1.5px;--dy:1.5px}.d4{--dx:-2px;--dy:0px}.d5{--dx:-1.5px;--dy:-1.5px}.d6{--dx:0px;--dy:-2px}.d7{--dx:1.5px;--dy:-1.5px}.s0{fill:#2E1065}.s1{fill:#4C1D95}.s2{fill:#5B21B6}.s3{fill:#6D28D9}.s4{fill:#7C3AED}.s5{fill:#8B5CF6}.s6{fill:#A78BFA}.s7{fill:#C4B5FD}.s8{fill:#EDE9FE}@keyframes s{0%,100%{transform:translate(0,0);opacity:1}35%{transform:translate(calc(var(--dx)*var(--m)),calc(var(--dy)*var(--m)));opacity:.8}65%{transform:translate(0,0);opacity:1}}@keyframes b{0%,100%{transform:scale(1)}35%{transform:scale(1.04)}}@media (prefers-reduced-motion:reduce){.h,rect{animation:none}}</style>
 <g class="h">
-<rect x="88" y="40" class="c1 d5 e3"/>
-<rect x="104" y="40" class="c1 d5 e2"/>
-<rect x="120" y="40" class="c1 d5 e4"/>
-<rect x="184" y="40" class="c1 d7 e1"/>
-<rect x="200" y="40" class="c1 d7 e1"/>
-<rect x="216" y="40" class="c1 d7 e1"/>
-<rect x="72" y="56" class="c1 d5 e3"/>
-<rect x="88" y="56" class="c0 d5 e1"/>
-<rect x="104" y="56" class="c0 d5 e2"/>
-<rect x="120" y="56" class="c1 d5 e1"/>
-<rect x="136" y="56" class="c1 d6 e1"/>
-<rect x="168" y="56" class="c1 d6 e4"/>
-<rect x="184" y="56" class="c1 d7 e4"/>
-<rect x="200" y="56" class="c1 d7 e1"/>
-<rect x="216" y="56" class="c1 d7 e2"/>
-<rect x="232" y="56" class="c1 d7 e1"/>
-<rect x="72" y="72" class="c1 d5 e4"/>
-<rect x="88" y="72" class="c0 d5 e1"/>
-<rect x="104" y="72" class="c1 d5 e1"/>
-<rect x="120" y="72" class="c1 d5 e2"/>
-<rect x="136" y="72" class="c1 d6 e1"/>
-<rect x="152" y="72" class="c1 d6 e4"/>
-<rect x="168" y="72" class="c1 d6 e1"/>
-<rect x="184" y="72" class="c1 d7 e2"/>
-<rect x="200" y="72" class="c1 d7 e1"/>
-<rect x="216" y="72" class="c1 d7 e2"/>
-<rect x="232" y="72" class="c1 d7 e3"/>
-<rect x="72" y="88" class="c2 d4 e4"/>
-<rect x="88" y="88" class="c2 d4 e2"/>
-<rect x="104" y="88" class="c2 d5 e1"/>
-<rect x="120" y="88" class="c2 d5 e3"/>
-<rect x="136" y="88" class="c2 d5 e2"/>
-<rect x="152" y="88" class="c2 d6 e1"/>
-<rect x="168" y="88" class="c2 d7 e2"/>
-<rect x="184" y="88" class="c2 d7 e3"/>
-<rect x="200" y="88" class="c2 d7 e1"/>
-<rect x="216" y="88" class="c2 d0 e1"/>
-<rect x="232" y="88" class="c2 d0 e1"/>
-<rect x="72" y="104" class="c2 d4 e2"/>
-<rect x="88" y="104" class="c2 d4 e4"/>
-<rect x="104" y="104" class="c2 d4 e4"/>
-<rect x="120" y="104" class="c2 d4 e3"/>
-<rect x="136" y="104" class="c2 d5 e4"/>
-<rect x="152" y="104" class="c2 d6 e4"/>
-<rect x="168" y="104" class="c2 d7 e3"/>
-<rect x="184" y="104" class="c2 d0 e3"/>
-<rect x="200" y="104" class="c2 d0 e2"/>
-<rect x="216" y="104" class="c2 d0 e2"/>
-<rect x="232" y="104" class="c2 d0 e2"/>
-<rect x="88" y="120" class="c2 d4 e1"/>
-<rect x="104" y="120" class="c2 d4 e3"/>
-<rect x="120" y="120" class="c2 d4 e4"/>
-<rect x="136" y="120" class="c2 d3 e3"/>
-<rect x="152" y="120" class="c2 d2 e4"/>
-<rect x="168" y="120" class="c2 d1 e3"/>
-<rect x="184" y="120" class="c2 d0 e1"/>
-<rect x="200" y="120" class="c2 d0 e1"/>
-<rect x="216" y="120" class="c2 d0 e4"/>
-<rect x="104" y="136" class="c3 d3 e2"/>
-<rect x="120" y="136" class="c3 d3 e3"/>
-<rect x="136" y="136" class="c3 d3 e2"/>
-<rect x="152" y="136" class="c3 d2 e4"/>
-<rect x="168" y="136" class="c3 d1 e4"/>
-<rect x="184" y="136" class="c3 d1 e1"/>
-<rect x="200" y="136" class="c3 d1 e1"/>
-<rect x="120" y="152" class="c3 d3 e3"/>
-<rect x="136" y="152" class="c3 d2 e3"/>
-<rect x="152" y="152" class="c3 d2 e3"/>
-<rect x="168" y="152" class="c3 d2 e4"/>
-<rect x="184" y="152" class="c3 d1 e4"/>
-<rect x="136" y="168" class="c3 d2 e1"/>
-<rect x="152" y="168" class="c3 d2 e1"/>
-<rect x="168" y="168" class="c3 d2 e3"/>
-<rect x="152" y="184" class="c3 d2 e4"/>
+<g class="d0">
+<g class="s1"><rect x="33" y="10"/><rect x="33" y="11"/><rect x="33" y="12"/><rect x="32" y="13"/><rect x="33" y="13"/><rect x="32" y="14"/><rect x="33" y="14"/><rect x="31" y="15"/><rect x="32" y="15"/><rect x="33" y="15"/><rect x="31" y="16"/><rect x="32" y="16"/><rect x="33" y="16"/><rect x="30" y="17"/><rect x="31" y="17"/><rect x="32" y="17"/><rect x="29" y="18"/><rect x="30" y="18"/><rect x="31" y="18"/><rect x="32" y="18"/><rect x="29" y="19"/><rect x="30" y="19"/><rect x="31" y="19"/><rect x="32" y="19"/><rect x="30" y="20"/><rect x="31" y="20"/></g>
+<g class="s2"><rect x="32" y="10"/><rect x="32" y="11"/><rect x="32" y="12"/><rect x="31" y="13"/><rect x="30" y="14"/><rect x="31" y="14"/><rect x="30" y="15"/><rect x="29" y="16"/><rect x="30" y="16"/><rect x="28" y="17"/><rect x="29" y="17"/><rect x="27" y="18"/><rect x="28" y="18"/><rect x="27" y="19"/><rect x="28" y="19"/></g>
+<g class="s3"><rect x="30" y="11"/><rect x="31" y="11"/><rect x="30" y="12"/><rect x="31" y="12"/><rect x="29" y="13"/><rect x="30" y="13"/><rect x="28" y="14"/><rect x="29" y="14"/><rect x="27" y="15"/><rect x="28" y="15"/><rect x="29" y="15"/><rect x="26" y="16"/><rect x="27" y="16"/><rect x="28" y="16"/><rect x="26" y="17"/><rect x="27" y="17"/><rect x="25" y="18"/><rect x="26" y="18"/></g>
+<g class="s4"><rect x="29" y="11"/><rect x="27" y="12"/><rect x="28" y="12"/><rect x="29" y="12"/><rect x="26" y="13"/><rect x="27" y="13"/><rect x="28" y="13"/><rect x="25" y="14"/><rect x="26" y="14"/><rect x="27" y="14"/><rect x="24" y="15"/><rect x="25" y="15"/><rect x="26" y="15"/><rect x="23" y="16"/><rect x="24" y="16"/><rect x="25" y="16"/><rect x="22" y="17"/><rect x="23" y="17"/><rect x="24" y="17"/><rect x="25" y="17"/></g>
+<g class="s5"><rect x="24" y="13"/><rect x="25" y="13"/><rect x="22" y="14"/><rect x="23" y="14"/><rect x="24" y="14"/><rect x="20" y="15"/><rect x="21" y="15"/><rect x="22" y="15"/><rect x="23" y="15"/><rect x="20" y="16"/><rect x="21" y="16"/><rect x="22" y="16"/></g>
+</g>
+<g class="d1">
+<g class="s1"><rect x="28" y="20"/><rect x="29" y="20"/><rect x="27" y="21"/><rect x="28" y="21"/><rect x="29" y="21"/><rect x="30" y="21"/><rect x="31" y="21"/><rect x="26" y="22"/><rect x="27" y="22"/><rect x="28" y="22"/><rect x="29" y="22"/><rect x="30" y="22"/><rect x="25" y="23"/><rect x="26" y="23"/><rect x="27" y="23"/><rect x="28" y="23"/><rect x="29" y="23"/><rect x="24" y="24"/><rect x="25" y="24"/><rect x="26" y="24"/><rect x="27" y="24"/><rect x="28" y="24"/><rect x="22" y="25"/><rect x="23" y="25"/><rect x="24" y="25"/><rect x="25" y="25"/><rect x="26" y="25"/><rect x="27" y="25"/><rect x="28" y="25"/><rect x="23" y="26"/><rect x="24" y="26"/><rect x="25" y="26"/><rect x="26" y="26"/><rect x="27" y="26"/><rect x="23" y="27"/><rect x="24" y="27"/><rect x="25" y="27"/><rect x="26" y="27"/><rect x="24" y="28"/></g>
+<g class="s2"><rect x="26" y="19"/><rect x="25" y="20"/><rect x="26" y="20"/><rect x="27" y="20"/><rect x="24" y="21"/><rect x="25" y="21"/><rect x="26" y="21"/><rect x="23" y="22"/><rect x="24" y="22"/><rect x="25" y="22"/><rect x="22" y="23"/><rect x="23" y="23"/><rect x="24" y="23"/><rect x="22" y="24"/><rect x="23" y="24"/></g>
+<g class="s3"><rect x="24" y="18"/><rect x="23" y="19"/><rect x="24" y="19"/><rect x="25" y="19"/><rect x="22" y="20"/><rect x="23" y="20"/><rect x="24" y="20"/><rect x="21" y="21"/><rect x="22" y="21"/><rect x="23" y="21"/><rect x="21" y="22"/><rect x="22" y="22"/></g>
+<g class="s4"><rect x="20" y="18"/><rect x="21" y="18"/><rect x="22" y="18"/><rect x="23" y="18"/><rect x="20" y="19"/><rect x="21" y="19"/><rect x="22" y="19"/><rect x="20" y="20"/><rect x="21" y="20"/></g>
+<g class="s5"><rect x="19" y="16"/><rect x="19" y="17"/><rect x="20" y="17"/><rect x="21" y="17"/></g>
+</g>
+<g class="d2">
+<g class="s1"><rect x="21" y="26"/><rect x="22" y="26"/><rect x="20" y="27"/><rect x="21" y="27"/><rect x="22" y="27"/><rect x="13" y="28"/><rect x="14" y="28"/><rect x="19" y="28"/><rect x="20" y="28"/><rect x="21" y="28"/><rect x="22" y="28"/><rect x="23" y="28"/><rect x="14" y="29"/><rect x="15" y="29"/><rect x="16" y="29"/><rect x="19" y="29"/><rect x="20" y="29"/><rect x="21" y="29"/><rect x="22" y="29"/><rect x="23" y="29"/><rect x="15" y="30"/><rect x="16" y="30"/><rect x="17" y="30"/><rect x="18" y="30"/><rect x="19" y="30"/><rect x="20" y="30"/><rect x="21" y="30"/><rect x="22" y="30"/><rect x="17" y="31"/><rect x="18" y="31"/><rect x="19" y="31"/><rect x="20" y="31"/><rect x="18" y="32"/><rect x="19" y="32"/></g>
+<g class="s2"><rect x="21" y="24"/><rect x="20" y="25"/><rect x="21" y="25"/><rect x="19" y="26"/><rect x="20" y="26"/><rect x="14" y="27"/><rect x="15" y="27"/><rect x="16" y="27"/><rect x="17" y="27"/><rect x="18" y="27"/><rect x="19" y="27"/><rect x="15" y="28"/><rect x="16" y="28"/><rect x="17" y="28"/><rect x="18" y="28"/><rect x="17" y="29"/><rect x="18" y="29"/></g>
+<g class="s3"><rect x="20" y="22"/><rect x="19" y="23"/><rect x="20" y="23"/><rect x="21" y="23"/><rect x="15" y="24"/><rect x="16" y="24"/><rect x="17" y="24"/><rect x="18" y="24"/><rect x="19" y="24"/><rect x="20" y="24"/><rect x="15" y="25"/><rect x="16" y="25"/><rect x="17" y="25"/><rect x="18" y="25"/><rect x="19" y="25"/><rect x="14" y="26"/><rect x="15" y="26"/><rect x="16" y="26"/><rect x="17" y="26"/><rect x="18" y="26"/></g>
+<g class="s4"><rect x="18" y="19"/><rect x="19" y="19"/><rect x="17" y="20"/><rect x="18" y="20"/><rect x="19" y="20"/><rect x="16" y="21"/><rect x="17" y="21"/><rect x="18" y="21"/><rect x="19" y="21"/><rect x="20" y="21"/><rect x="16" y="22"/><rect x="17" y="22"/><rect x="18" y="22"/><rect x="19" y="22"/><rect x="15" y="23"/><rect x="16" y="23"/><rect x="17" y="23"/><rect x="18" y="23"/></g>
+<g class="s5"><rect x="18" y="16"/><rect x="18" y="17"/><rect x="17" y="18"/><rect x="18" y="18"/><rect x="19" y="18"/><rect x="17" y="19"/></g>
+</g>
+<g class="d3">
+<g class="s1"><rect x="9" y="25"/><rect x="10" y="26"/><rect x="11" y="27"/><rect x="12" y="27"/></g>
+<g class="s2"><rect x="6" y="21"/><rect x="7" y="22"/><rect x="8" y="23"/><rect x="9" y="24"/><rect x="10" y="24"/><rect x="10" y="25"/><rect x="11" y="25"/><rect x="11" y="26"/><rect x="12" y="26"/><rect x="13" y="26"/><rect x="13" y="27"/></g>
+<g class="s3"><rect x="7" y="20"/><rect x="7" y="21"/><rect x="8" y="21"/><rect x="8" y="22"/><rect x="9" y="22"/><rect x="10" y="22"/><rect x="9" y="23"/><rect x="10" y="23"/><rect x="11" y="23"/><rect x="12" y="23"/><rect x="11" y="24"/><rect x="12" y="24"/><rect x="13" y="24"/><rect x="14" y="24"/><rect x="12" y="25"/><rect x="13" y="25"/><rect x="14" y="25"/></g>
+<g class="s4"><rect x="10" y="19"/><rect x="8" y="20"/><rect x="9" y="20"/><rect x="10" y="20"/><rect x="11" y="20"/><rect x="12" y="20"/><rect x="13" y="20"/><rect x="14" y="20"/><rect x="15" y="20"/><rect x="16" y="20"/><rect x="9" y="21"/><rect x="10" y="21"/><rect x="11" y="21"/><rect x="12" y="21"/><rect x="13" y="21"/><rect x="14" y="21"/><rect x="15" y="21"/><rect x="11" y="22"/><rect x="12" y="22"/><rect x="13" y="22"/><rect x="14" y="22"/><rect x="15" y="22"/><rect x="13" y="23"/><rect x="14" y="23"/></g>
+<g class="s5"><rect x="17" y="16"/><rect x="15" y="17"/><rect x="16" y="17"/><rect x="17" y="17"/><rect x="12" y="18"/><rect x="13" y="18"/><rect x="14" y="18"/><rect x="15" y="18"/><rect x="16" y="18"/><rect x="11" y="19"/><rect x="12" y="19"/><rect x="13" y="19"/><rect x="14" y="19"/><rect x="15" y="19"/><rect x="16" y="19"/></g>
+</g>
+<g class="d4">
+<g class="s2"><rect x="5" y="19"/></g>
+<g class="s3"><rect x="4" y="16"/><rect x="5" y="18"/><rect x="6" y="20"/></g>
+<g class="s4"><rect x="4" y="15"/><rect x="5" y="16"/><rect x="5" y="17"/><rect x="6" y="17"/><rect x="6" y="18"/><rect x="7" y="18"/><rect x="6" y="19"/><rect x="7" y="19"/><rect x="8" y="19"/><rect x="9" y="19"/></g>
+<g class="s5"><rect x="4" y="12"/><rect x="4" y="13"/><rect x="4" y="14"/><rect x="5" y="14"/><rect x="6" y="14"/><rect x="5" y="15"/><rect x="6" y="15"/><rect x="7" y="15"/><rect x="8" y="15"/><rect x="9" y="15"/><rect x="10" y="15"/><rect x="11" y="15"/><rect x="12" y="15"/><rect x="13" y="15"/><rect x="14" y="15"/><rect x="15" y="15"/><rect x="16" y="15"/><rect x="6" y="16"/><rect x="7" y="16"/><rect x="8" y="16"/><rect x="9" y="16"/><rect x="10" y="16"/><rect x="11" y="16"/><rect x="12" y="16"/><rect x="13" y="16"/><rect x="14" y="16"/><rect x="15" y="16"/><rect x="16" y="16"/><rect x="7" y="17"/><rect x="8" y="17"/><rect x="9" y="17"/><rect x="10" y="17"/><rect x="11" y="17"/><rect x="12" y="17"/><rect x="13" y="17"/><rect x="14" y="17"/><rect x="8" y="18"/><rect x="9" y="18"/><rect x="10" y="18"/><rect x="11" y="18"/></g>
+<g class="s6"><rect x="4" y="10"/><rect x="4" y="11"/><rect x="5" y="11"/><rect x="6" y="11"/><rect x="7" y="11"/><rect x="5" y="12"/><rect x="6" y="12"/><rect x="7" y="12"/><rect x="8" y="12"/><rect x="9" y="12"/><rect x="5" y="13"/><rect x="6" y="13"/><rect x="7" y="13"/><rect x="8" y="13"/><rect x="9" y="13"/><rect x="10" y="13"/><rect x="11" y="13"/><rect x="12" y="13"/><rect x="7" y="14"/><rect x="8" y="14"/><rect x="9" y="14"/><rect x="10" y="14"/><rect x="11" y="14"/><rect x="12" y="14"/><rect x="13" y="14"/><rect x="14" y="14"/></g>
+</g>
+<g class="d5">
+<g class="s5"><rect x="17" y="14"/><rect x="17" y="15"/></g>
+<g class="s6"><rect x="13" y="4"/><rect x="5" y="7"/><rect x="14" y="8"/><rect x="15" y="9"/><rect x="5" y="10"/><rect x="15" y="10"/><rect x="8" y="11"/><rect x="16" y="11"/><rect x="10" y="12"/><rect x="15" y="12"/><rect x="16" y="12"/><rect x="13" y="13"/><rect x="14" y="13"/><rect x="15" y="13"/><rect x="16" y="13"/><rect x="15" y="14"/><rect x="16" y="14"/></g>
+<g class="s7"><rect x="9" y="4"/><rect x="10" y="4"/><rect x="11" y="4"/><rect x="12" y="4"/><rect x="7" y="5"/><rect x="8" y="5"/><rect x="9" y="5"/><rect x="10" y="5"/><rect x="11" y="5"/><rect x="12" y="5"/><rect x="13" y="5"/><rect x="6" y="6"/><rect x="7" y="6"/><rect x="8" y="6"/><rect x="9" y="6"/><rect x="10" y="6"/><rect x="11" y="6"/><rect x="12" y="6"/><rect x="13" y="6"/><rect x="14" y="6"/><rect x="6" y="7"/><rect x="7" y="7"/><rect x="8" y="7"/><rect x="9" y="7"/><rect x="12" y="7"/><rect x="13" y="7"/><rect x="14" y="7"/><rect x="5" y="8"/><rect x="6" y="8"/><rect x="7" y="8"/><rect x="8" y="8"/><rect x="13" y="8"/><rect x="5" y="9"/><rect x="6" y="9"/><rect x="7" y="9"/><rect x="8" y="9"/><rect x="14" y="9"/><rect x="6" y="10"/><rect x="7" y="10"/><rect x="8" y="10"/><rect x="9" y="10"/><rect x="14" y="10"/><rect x="9" y="11"/><rect x="10" y="11"/><rect x="11" y="11"/><rect x="13" y="11"/><rect x="14" y="11"/><rect x="15" y="11"/><rect x="11" y="12"/><rect x="12" y="12"/><rect x="13" y="12"/><rect x="14" y="12"/></g>
+<g class="s8"><rect x="10" y="7"/><rect x="11" y="7"/><rect x="9" y="8"/><rect x="10" y="8"/><rect x="11" y="8"/><rect x="12" y="8"/><rect x="9" y="9"/><rect x="10" y="9"/><rect x="11" y="9"/><rect x="12" y="9"/><rect x="13" y="9"/><rect x="10" y="10"/><rect x="11" y="10"/><rect x="12" y="10"/><rect x="13" y="10"/><rect x="12" y="11"/></g>
+</g>
+<g class="d6">
+<g class="s5"><rect x="16" y="5"/><rect x="18" y="6"/><rect x="18" y="15"/></g>
+<g class="s6"><rect x="14" y="4"/><rect x="14" y="5"/><rect x="15" y="5"/><rect x="15" y="6"/><rect x="16" y="6"/><rect x="17" y="6"/><rect x="15" y="7"/><rect x="16" y="7"/><rect x="17" y="7"/><rect x="18" y="7"/><rect x="15" y="8"/><rect x="16" y="8"/><rect x="17" y="8"/><rect x="16" y="9"/><rect x="17" y="9"/><rect x="18" y="9"/><rect x="16" y="10"/><rect x="17" y="10"/><rect x="18" y="10"/><rect x="17" y="11"/><rect x="18" y="11"/><rect x="17" y="12"/><rect x="18" y="12"/><rect x="17" y="13"/><rect x="18" y="13"/><rect x="19" y="13"/><rect x="18" y="14"/></g>
+<g class="s7"><rect x="21" y="5"/><rect x="22" y="5"/><rect x="19" y="6"/><rect x="20" y="6"/><rect x="21" y="6"/><rect x="19" y="7"/><rect x="20" y="7"/><rect x="21" y="7"/><rect x="18" y="8"/><rect x="19" y="8"/><rect x="20" y="8"/><rect x="21" y="8"/><rect x="19" y="9"/><rect x="20" y="9"/><rect x="19" y="10"/><rect x="19" y="11"/><rect x="19" y="12"/></g>
+<g class="s8"><rect x="20" y="10"/></g>
+</g>
+<g class="d7">
+<g class="s2"><rect x="32" y="7"/><rect x="32" y="8"/><rect x="32" y="9"/></g>
+<g class="s3"><rect x="31" y="6"/><rect x="31" y="9"/><rect x="31" y="10"/></g>
+<g class="s4"><rect x="30" y="5"/><rect x="30" y="6"/><rect x="30" y="7"/><rect x="31" y="7"/><rect x="30" y="8"/><rect x="31" y="8"/><rect x="29" y="9"/><rect x="30" y="9"/><rect x="29" y="10"/><rect x="30" y="10"/><rect x="28" y="11"/></g>
+<g class="s5"><rect x="28" y="4"/><rect x="29" y="5"/><rect x="29" y="6"/><rect x="28" y="7"/><rect x="29" y="7"/><rect x="28" y="8"/><rect x="29" y="8"/><rect x="27" y="9"/><rect x="28" y="9"/><rect x="26" y="10"/><rect x="27" y="10"/><rect x="28" y="10"/><rect x="25" y="11"/><rect x="26" y="11"/><rect x="27" y="11"/><rect x="23" y="12"/><rect x="24" y="12"/><rect x="25" y="12"/><rect x="26" y="12"/><rect x="22" y="13"/><rect x="23" y="13"/><rect x="20" y="14"/><rect x="21" y="14"/><rect x="19" y="15"/></g>
+<g class="s6"><rect x="26" y="4"/><rect x="27" y="4"/><rect x="27" y="5"/><rect x="28" y="5"/><rect x="26" y="6"/><rect x="27" y="6"/><rect x="28" y="6"/><rect x="25" y="7"/><rect x="26" y="7"/><rect x="27" y="7"/><rect x="24" y="8"/><rect x="25" y="8"/><rect x="26" y="8"/><rect x="27" y="8"/><rect x="24" y="9"/><rect x="25" y="9"/><rect x="26" y="9"/><rect x="23" y="10"/><rect x="24" y="10"/><rect x="25" y="10"/><rect x="22" y="11"/><rect x="23" y="11"/><rect x="24" y="11"/><rect x="21" y="12"/><rect x="22" y="12"/><rect x="20" y="13"/><rect x="21" y="13"/><rect x="19" y="14"/></g>
+<g class="s7"><rect x="23" y="4"/><rect x="24" y="4"/><rect x="25" y="4"/><rect x="23" y="5"/><rect x="24" y="5"/><rect x="25" y="5"/><rect x="26" y="5"/><rect x="22" y="6"/><rect x="23" y="6"/><rect x="24" y="6"/><rect x="25" y="6"/><rect x="22" y="7"/><rect x="23" y="7"/><rect x="24" y="7"/><rect x="22" y="8"/><rect x="23" y="8"/><rect x="22" y="9"/><rect x="23" y="9"/><rect x="21" y="10"/><rect x="22" y="10"/><rect x="20" y="11"/><rect x="21" y="11"/><rect x="20" y="12"/></g>
+<g class="s8"><rect x="21" y="9"/></g>
+</g>
 </g>
 </svg>
