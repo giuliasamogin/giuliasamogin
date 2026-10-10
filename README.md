@@ -68,6 +68,12 @@ Projeto final do curso de HTML da Fundação Bradesco: site institucional comple
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/giuliasamogin/giuliasamogin/main/coracao.svg" width="160" alt="Coração em pixels animado" />
+
+</div>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8b5cf6,50:2e1065,100:0d0d0d&section=footer" width="100%" alt="Rodapé" />
 
 </div>
